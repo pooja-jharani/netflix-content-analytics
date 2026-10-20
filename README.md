@@ -1,6 +1,8 @@
 # Netflix Content Analytics
 
-![CI](https://github.com/pooja-jharani/netflix-content-analytics/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/pooja-jharani/netflix-content-analytics/actions/workflows/ci.yml/badge.svg)](https://github.com/pooja-jharani/netflix-content-analytics/actions/workflows/ci.yml)
+
+**🔗 Live demo:** [netflix-content-analytics.streamlit.app](https://netflix-content-analytics-kgkhusfdtracxcw5ofh6pp.streamlit.app/)
 
 Analysis of Netflix's content catalogue (7,786 movies and TV shows) that asks how the catalogue is composed, how it changed over time, and what a content-strategy team could investigate next. It includes a tested Python package, a written analysis notebook, and an interactive Streamlit dashboard.
 
