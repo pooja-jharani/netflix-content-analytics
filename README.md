@@ -8,6 +8,14 @@ Analysis of Netflix's content catalogue (7,786 movies and TV shows) that asks ho
 
 > **Scope note.** The dataset has no viewership data. Findings describe what was *in* the catalogue, not what people watched.
 
+## About
+
+This project analyses Netflix's catalogue of 7,786 movies and TV shows to understand how its content mix has changed over time. It looks at growth, geographic spread, genres, audiences and talent concentration, and suggests what a content-strategy team could investigate next.
+
+It is built as a tested Python package (33 tests, CI on Python 3.11 to 3.13), a written analysis notebook, and an interactive Streamlit dashboard.
+
+**Built with:** Python, pandas, SciPy, Matplotlib, Plotly, Streamlit, pytest, GitHub Actions
+
 ## What I found
 
 | Question | Finding |
